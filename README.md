@@ -14,7 +14,7 @@ The aim of the RAP Champions network has been to prepare departments for the int
 RAP is a methodology for automating the bulk of steps involved in creating a statistical report, whilst allowing analysis to be reproduced in the future.
 
 -	Collaboration which improved data and methods
-  - RAP Champions collaborated to build capability in using reproducible analytical pipelines across government
+    - RAP Champions collaborated to build capability in using reproducible analytical pipelines across government
 
 The RAP Champions network has pioneered collaborative ways of working to build capability in reproducible analytical pipelines (RAP) across government. 
 This increased capability in RAP methods has led and will lead to better quality statistical outputs, delivered in a more timely manner, more efficiently. 
@@ -50,7 +50,7 @@ The RAP website is hosted on github. This has allowed RAP Champions to contribut
 The RAP Champions network, aside from hosting face-to-face meetups, maintains contact using slack – an internet chat room which enables in-depth discussions and facilitates knowledge sharing. The slack group is well attended with 532 members with approximately 135 messages posted per month.
 
 -	Training
-  -	MOOC
+    -	MOOC
   
 The network has promoted work from its members, including the RAP massive open online course (MOOC) produced by Matthew Gregory. 
 This MOOC is a strong example of knowledge sharing… Impact? 5668 enrolments, 4.13 stars 
