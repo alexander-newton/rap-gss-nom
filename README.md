@@ -1,5 +1,7 @@
 # rap-gss-nom
 
+![RAP Win Badge - (c) Matt Dray](RAPwin.png)
+
 * Collaboration which improved data and methods
 *	Ways of working which enabled effective collaboration
 *	Collaboration which enhanced the insight and understanding of the findings
